@@ -13,10 +13,10 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <maven.compiler.release>11</maven.compiler.release>
-    <sonar.projectName>jenkins-shared-library</sonar.projectName>
-       <sonar.projectKey>jenkins-shared-library</sonar.projectKey>
+    <sonar.projectName>app</sonar.projectName>
+       <sonar.projectKey>token</sonar.projectKey>
        <sonar.sources>src,vars</sonar.sources>
-       <sonar.tests>test</sonar.test>
+       
     <sonar.groovy.jacoco.reportPath>target/jacoco.exec</sonar.groovy.jacoco.reportPath>
   </properties>
 
