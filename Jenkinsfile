@@ -4,6 +4,7 @@ pipeline {
         tools {
            maven 'mvn'
            jdk 'java'
+        }       
         stages {
           stage("build & SonarQube analysis") {
             agent any
