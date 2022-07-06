@@ -13,9 +13,9 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <maven.compiler.release>11</maven.compiler.release>
-    <sonar.projectName>app</sonar.projectName>
-       <sonar.projectKey>token</sonar.projectKey>
-       <sonar.sources>src</sonar.sources>
+    <sonar.projectName>demo</sonar.projectName>
+       <sonar.projectKey>demo</sonar.projectKey>
+       
        
     <sonar.groovy.jacoco.reportPath>target/jacoco.exec</sonar.groovy.jacoco.reportPath>
   </properties>
