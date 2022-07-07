@@ -15,6 +15,7 @@
     <maven.compiler.release>11</maven.compiler.release>
     <sonar.projectName>demo</sonar.projectName>
        <sonar.projectKey>demo</sonar.projectKey>
+       <sonar.sources>src,vars</sonar.sources>
        
        
     <sonar.groovy.jacoco.reportPath>target/jacoco.exec</sonar.groovy.jacoco.reportPath>
