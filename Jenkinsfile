@@ -1,8 +1,4 @@
 
-
-import com.cleverbuilder.GlobalVars
-import com.cleverbuilder.SampleClass
-
 pipeline {
         
         agent {
